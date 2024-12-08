@@ -146,3 +146,9 @@ Future improvements could include:
 
 
 ```
+Author
+Name: Abdihakim Issack
+Email: abdulhakimissack84@gmail.com
+LinkedIn: linkedin.com/in/abdulhakim-issack-225610238S
+
+```
